@@ -46,8 +46,8 @@ const images = [
         filename: 'YelpCamp/patrick-hendry-eDgUyGu93Yw-unsplash_tkjcoc.jpg'
     },
     {
-        url: 'https://res.cloudinary.com/doeov7urm/image/upload/w_900,h_600/v1694899355/YelpCamp/laurine-bailly-qkMQ5N2d9aY-unsplash_vgryni.jpg',
-        filename: 'YelpCamp/laurine-bailly-qkMQ5N2d9aY-unsplash_vgryni.jpg'
+        url: 'https://res.cloudinary.com/doeov7urm/image/upload/v1694901101/YelpCamp/alfred-boivin-XoM0eYSXWMs-unsplash_wedx8v.jpg',
+        filename: 'YelpCamp/alfred-boivin-XoM0eYSXWMs-unsplash_wedx8v.jpg'
     }
 ];
 
