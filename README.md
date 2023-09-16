@@ -1,11 +1,11 @@
 # ⛺ yelp-camp
 
-## Click on the picture to run it on Render server or here: https://yelp-camp-jgt3.onrender.com/
 <a href="https://yelp-camp-jgt3.onrender.com/" target="_blank">
  <p align="center">
   <img src="https://res.cloudinary.com/doeov7urm/image/upload/v1694901885/Screenshot_2023-09-16_at_6.00.21_PM_tmrw4p.png?w=350" alt="Campground">
   </p>
 </a>
+#### Click at the picture or https://yelp-camp-jgt3.onrender.com/ to start the Render server.
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, an account must be registered through Register. Then, you can log in to view all campgrounds and play around with it.
 
