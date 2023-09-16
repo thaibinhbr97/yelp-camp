@@ -23,7 +23,7 @@ const seedDB = async () => {
         const price = Math.floor(Math.random() * 30) + 10;
         const camp = new Campground({
             // YOUR USER ID
-            author: '64f8a61a7730b3894b5b10f2',
+            author: '65046b516d74aecee6238986',
             location: `${cities[random1000].city}, ${cities[random1000].state}`,
             title: `${sample(descriptors)} ${sample(places)}`,
             description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, ipsam sunt vero commodi alias reiciendis praesentium aspernatur, impedit reprehenderit natus voluptates beatae quis nemo, voluptate cumque illum possimus sed fugiat?',
@@ -49,6 +49,7 @@ const seedDB = async () => {
         })
         await camp.save();
     }
+    console.log("Finished seeding data into databases");
 }
 
 seedDB().then(() => {
